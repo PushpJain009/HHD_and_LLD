@@ -11,4 +11,5 @@ LLD
 HHD
 
 
-![image](https://github.com/PushpJain009/HHD_and_LLD/assets/114671782/5dd79880-8a76-4b6e-890f-db84da6005df)
+![Screenshot 2023-10-04 191551](https://github.com/PushpJain009/HHD_and_LLD/assets/114671782/8bea9dc0-d379-4807-a317-d1daab30ff4f)
+
